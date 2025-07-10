@@ -1,0 +1,2 @@
+# miInteligenciaArtificial
+solo mi ia
